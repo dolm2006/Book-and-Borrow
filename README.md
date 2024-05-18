@@ -1,6 +1,9 @@
 These are the files detailing my Advanced Higher Computing Science Project.
 
-TO RUN: Execute the Library_Main file with the mysql connector module installed using PIP.
+TO RUN: 
+ - Create a MySQL database with the provided SQL files
+ - Add connection details to the db_connect module of the Library_Queries file
+ - Execute the Library_Main file with the mysql connector module installed using PIP.
 
 The project I took on was to make a sort of Amazon book store but for library books. To read more in-depth with my bad Analysis and Designs you can read the full report pdf.
 
