@@ -14,10 +14,10 @@ import mysql.connector
 def db_connect():
     try:
         conn = mysql.connector.connect(
-            host='127.0.0.1',
-            user="root",
-            passwd="Steamgame101.",
-            database="library_end_user",
+            host='',
+            user="",
+            passwd="",
+            database="",
         )
     except:
         return None
